@@ -8,50 +8,56 @@ using ShopManagementSystem.Models;
 
 namespace ShopManagementSystem.Controllers
 {
-    public class RegisterController : Controller
+    public class LoginController : Controller
     {
         private readonly ConnectionDBClass _db;
 
-        public RegisterController(ConnectionDBClass db)
+        public LoginController(ConnectionDBClass db)
         {
             _db = db;
         }
-        // GET: RegisterController
+
+        // GET: LoginController
         public ActionResult Index()
         {
             return View();
         }
 
-        // GET: RegisterController/Details/5
+        // GET: LoginController/Details/5
         public ActionResult Details(int id)
         {
             return View();
         }
 
-        // GET: RegisterController/Create
+        // GET: LoginController/Create
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: RegisterController/Create
+        // POST: LoginController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Register uc)
-        {    
-            _db.Add(uc);
-            _db.SaveChanges();
-            ViewBag.message = "The user " + uc.Name + " is saved successfully";
-            return RedirectToAction("User", "Login");
+        public ActionResult Create(Login user)
+        {
+            try
+            {
+                
+                return RedirectToAction(nameof(Index));
+            }
+            catch
+            {
+                return View();
+            }
         }
 
-        // GET: RegisterController/Edit/5
+        // GET: LoginController/Edit/5
         public ActionResult Edit(int id)
         {
             return View();
         }
 
-        // POST: RegisterController/Edit/5
+        // POST: LoginController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)
@@ -66,13 +72,13 @@ namespace ShopManagementSystem.Controllers
             }
         }
 
-        // GET: RegisterController/Delete/5
+        // GET: LoginController/Delete/5
         public ActionResult Delete(int id)
         {
             return View();
         }
 
-        // POST: RegisterController/Delete/5
+        // POST: LoginController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)

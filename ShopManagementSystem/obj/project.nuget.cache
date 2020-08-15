@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TKJi9uySn4zFdT2FzyKZnTSs+mBs6kqbvy4xIYqlBCrmP1Wc99/zf4OZo3KMKZBMfLRgG8kx/LVHPcX53ueoQw==",
+  "dgSpecHash": "fglcyVE59qj/gnuowpQbhAthMq4g4bBSxzp8pklQBfEbScoP6DSajr/CikkjWmpibCzAFnQIMZxiUPhr6pr/cg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rimsha Shahzad\\source\\ShopManagementSystem\\ShopManagementSystem\\ShopManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\Rimsha Shahzad\\source\\Asp.net-core-task\\ShopManagementSystem\\ShopManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rimsha Shahzad\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Rimsha Shahzad\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
