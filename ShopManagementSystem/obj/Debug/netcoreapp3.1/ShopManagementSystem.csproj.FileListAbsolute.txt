@@ -362,12 +362,7 @@ C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\
 C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Buyer\Index.cshtml.g.cs
 C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Login\User.cshtml.g.cs
 C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Register\Create.cshtml.g.cs
-C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Add_Service.cshtml.g.cs
-C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Delete_Service.cshtml.g.cs
-C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Update_Service_Detail.cshtml.g.cs
-C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Seller\View_Service.cshtml.g.cs
 C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -383,3 +378,9 @@ C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\
 C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\ShopManagementSystem.pdb
 C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\ShopManagementSystem.genruntimeconfig.cache
 C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\About\Info.cshtml.g.cs
+C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Index.cshtml.g.cs
+C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Edit.cshtml.g.cs
+C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Details.cshtml.g.cs
+C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Delete.cshtml.g.cs
+C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Seller\Create.cshtml.g.cs
+C:\Users\Rimsha Shahzad\source\Asp.net-core-task\ShopManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Login\Create.cshtml.g.cs

@@ -17,6 +17,8 @@ namespace ShopManagementSystem.Models
 
         public byte[] Picture { get; set; }
 
+        public int Id { get; set; }
+
 
 
     }

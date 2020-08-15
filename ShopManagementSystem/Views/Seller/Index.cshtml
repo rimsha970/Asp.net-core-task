@@ -1,0 +1,37 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Service
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Seller- Homepage</title>
+
+</head>
+
+<body>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>Login to your Account</h4>
+            <div>
+                @Html.ActionLink("Create_Service", "Add", "Seller")
+                <br />
+                @Html.ActionLink("Update_Service", "Edit", "Seller")
+                <br />
+                @Html.ActionLink("Delete_Service", "Delete", "Seller")
+                <br />
+                @Html.ActionLink("View_Service", "Details", "Seller")
+                <br/>
+                @Html.ActionLink("Back to Homepage", "Index", "Seller")
+            </div>
+        </div>
+    }
+</body>
+</html>
